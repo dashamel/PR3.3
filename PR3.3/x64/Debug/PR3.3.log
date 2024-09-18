@@ -1,0 +1,6 @@
+﻿  pr3.3.cpp
+D:\source\repos\Student\PR3.3\pr3.3.cpp(23,16): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\source\repos\Student\PR3.3\pr3.3.cpp(26,11): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\source\repos\Student\PR3.3\pr3.3.cpp(29,18): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\source\repos\Student\PR3.3\pr3.3.cpp(32,13): warning C4804: '<=': unsafe use of type 'bool' in operation
+  PR3.3.vcxproj -> D:\source\repos\Student\PR3.3\x64\Debug\PR3.3.exe
